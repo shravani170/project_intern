@@ -54,6 +54,7 @@ Error Response structure
   message: ""
 }
 Collections samples
+
 College
 {
     "name" : "iith",
@@ -61,6 +62,9 @@ College
     "logoLink" : "https://functionup.s3.ap-south-1.amazonaws.com/colleges/iith.png",
     "isDeleted" : false
 }
+
+
+
 Intern
    {
     "isDeleted" : false,
@@ -70,6 +74,9 @@ Intern
     "collegeId" : ObjectId("888771129c9ea621dc7f5e3b")
 }
 Response samples
+
+
+
 College details
 {
   "data": {
